@@ -12,18 +12,18 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: hello@gmail.com
     phone: 012 345 6789
     timezone: Germany
     citizenship: German
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
+    website:  #do not add http://
+    linkedin: 
+    xing: 
     github: earlychris
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -52,12 +52,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Ich bin 26 Jahre, Student der TU Chemnitz und wohne momentan auch in der Nähe des Campus.
-      Ich kann programmieren und interressiere mich, seit meinem Praktikum an der Professur für
-      künstliche Intelligenz, für machinelles Lernen und Computer Vision. Weswegen ich auch meine Bachelor
-      Arbeit an dieser Professur geschrieben habe. Momentan bin ich im konsekutiven Masterstudiengang
-      eingeschrieben und suche nach einer Firma in der ich meine Fähigkeiten in
-      Sensorik und Informatik nutzen und verbessern kann.
+      Ich bin Christoph, 26 Jahre, Student der TU Chemnitz und wohne momentan auch in Chemnitz.
+      Ich interressiere mich seit meinem Studium der Sensorik und meinem Praktikum an der Professur für
+      künstliche Intelligenz, für machinelles Lernen und Computer Vision. Weswegen ich auch meine BA
+      an dieser Professur zum Thema Objekterkennung geschrieben habe. Momentan bin ich im konsekutiven Masterstudiengang
+      eingeschrieben und suche nach einer Firma in der ich meine Fähigkeiten anwenden und weiter verbessern kann.
 education:
     - degree: MSc in Sensorik and kognitive Psychology
       university: Technical University Chemnitz
@@ -82,52 +81,31 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: TU Chemnitz Praktika
+      time: 2017-2020
+      company: Technische Univeristät, Chemnitz
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Erstellen, modellieren und testen eines Neuronalen Netzes zur Objekterkennung
+        aufgrundlage vorangegangener Arbeiten.
 
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+# You can list your publications in this section. Lorem ipsum dolor sit
+      Bachelorarbeit
     papers:
       - title: Modellierung rekurrenter Aufmerksamkeit im visuellen Kortex zur Objekterkennung
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Me 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 98%
+        level: 90%
 
       - name: C++
         level: 70%
@@ -136,7 +114,7 @@ skills:
         level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
       - name: Sketch & Photoshop
         level: 60%
