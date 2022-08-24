@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: hello@gmail.com
     phone: 012 345 6789
-    timezone: Germany
-    citizenship: German
+    timezone: 
+    citizenship: Germany
     website:  #do not add http://
     linkedin: 
     xing: 
