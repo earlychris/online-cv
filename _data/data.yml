@@ -84,9 +84,9 @@ education:
       university: Geschwister-Scholl Gymnasium Nossen
       time: 2006-2014
       details: |
-      Describe your study here
-        - Bullet point 
-        - Bullet point
+        Describe your study here
+          - Bullet point 
+          - Bullet point
 experiences:
     - role: TU Chemnitz Praktika
       time: 2017-2020
