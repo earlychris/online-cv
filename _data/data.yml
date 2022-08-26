@@ -80,6 +80,11 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: Abitur 
+      university: Geschwister-Scholl Gymnasium Nossen
+      time: 2006-2014
+      details: |
+      Describe your study here
 experiences:
     - role: TU Chemnitz Praktika
       time: 2017-2020
@@ -87,6 +92,11 @@ experiences:
       details: |
         Erstellen, modellieren und testen eines Neuronalen Netzes zur Objekterkennung
         aufgrundlage vorangegangener Arbeiten.
+    -role: Metro GmbH Werkstudent
+      time: 2018- NOW
+      company: Metro GmbH
+      details: |
+      Aushilfstätigkeit als Kassierer
 
 
 publications:
