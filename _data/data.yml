@@ -89,16 +89,16 @@ education:
           - Bullet point
 experiences:
     - role: TU Chemnitz Praktika
-      time: 2017-2020
+      time: 2017 - 2020
       company: Technische Univeristät, Chemnitz
       details: |
         Erstellen, modellieren und testen eines Neuronalen Netzes zur Objekterkennung
         aufgrundlage vorangegangener Arbeiten.
-    -role: Metro GmbH Werkstudent
-      time: 2018- NOW
+    - role: Metro GmbH Werkstudent
+      time: 2018 - NOW
       company: Metro GmbH
       details: |
-      Aushilfstätigkeit als Kassierer
+        Aushilfstätigkeit als Kassierer
 
 
 publications:
