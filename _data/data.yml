@@ -52,11 +52,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Ich bin Christoph, 26 Jahre, Student der TU Chemnitz und wohne momentan auch in Chemnitz.
+      Ich bin Christoph, 27 Jahre, Student der TU Chemnitz und wohne momentan auch in Chemnitz.
       Ich interressiere mich seit meinem Studium der Sensorik und meinem Praktikum an der Professur für
       künstliche Intelligenz, für machinelles Lernen und Computer Vision. Weswegen ich auch meine BA
       an dieser Professur zum Thema Objekterkennung geschrieben habe. Momentan bin ich im konsekutiven Masterstudiengang
       eingeschrieben und suche nach einer Firma in der ich meine Fähigkeiten anwenden und weiter verbessern kann.
+
+      Hi.
+      I'm Christoph, 27 years old, student at Chemnitz University of Technology and currently also living there.
+      Since my studies in sensor technology and my internship at the professorship of artificial intelligence, I have been interested in
+      artificial intelligence, machine learning and computer vision. Which is why I also wrote my BA at this professorship, on the subject of object recognition. 
+      I'm currently enrolled in the consecutive master's program and looking for a company where I can apply and further improve my skills.
 education:
     - degree: MSc in Sensorik and kognitive Psychology
       university: Technical University Chemnitz
